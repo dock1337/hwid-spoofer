@@ -1,4 +1,4 @@
-Hello, I'm dock I've been learning developing for a couple of years from on now and today I want to do some services so I can make a bit of money If I do services for you.
+Hello, I'm dock! I've been learning developing for a couple of years from on now and today I want to do some services so I can make a bit of money If I do services for you.
 so what I want to do Is making your own Hardware Spoofer Also known as HWID Spoofer.
 
 Here's a list of games I can make your custom HWID Spoofer support:
