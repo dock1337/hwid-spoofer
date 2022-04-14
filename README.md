@@ -8,7 +8,6 @@ ALL COD Games such as warzone, modern warfare, coldwar, vanguard, etc (not Infin
 ( Sadly I don't do valorant at the moment 3: )
 
 Windows Support of your custom HWID Spoofer: Windows 10 & Windows 11 (All winvers)
-=============================================================================================
 
 The fee for your custom hwid spoofer will be $100.
 I only take crypto currency as payment since I don't have PayPal at the moment
